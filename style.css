@@ -5,3 +5,5 @@
 	overflow: auto;
 	text-align: center;
 }
+
+:qa! -> pour sortir lorsqu'on oublie de mettre un message quand on créé le commit
